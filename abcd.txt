@@ -7,3 +7,6 @@ this my first file
 >>>>>>> feature/new_data
 
 this is new feature of alphabates
+
+
+this is easy and very usful
