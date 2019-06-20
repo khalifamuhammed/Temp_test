@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi this iot session 
+=======
+hello
+
+this my first file
+>>>>>>> feature/new_data
